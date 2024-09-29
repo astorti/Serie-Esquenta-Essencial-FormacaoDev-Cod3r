@@ -16,6 +16,16 @@ Repositório para o estudo da série [**Esquenta Essencial**](https://www.youtub
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
+
+## Conceitos aprendidos:
+
+**1. HTML** <br/> 
+Elementos, Sintaxe do HTML, Formulários, Navegação e Mídias.
+
+**2. CSS**: <br/> 
+Seletores, Integração com HTML, Modelo Caixa, Display, Responsividade.
+
 ## Links para os vídeos da série no YouTube:
 
 [<img src="../esquenta-essencial-cod3r/assets/essencial-html.png" width="80px"/>](https://www.youtube.com/watch?v=BRd8_yFzQiA)
+[<img src="../esquenta-essencial-cod3r/assets/essencial-css.png" width="80px"/>](https://www.youtube.com/watch?v=QxWxhjH98R0)
