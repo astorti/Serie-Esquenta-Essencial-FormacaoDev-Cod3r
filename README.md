@@ -27,8 +27,11 @@ Seletores, Integração com HTML, Modelo Caixa, Display, Responsividade.
 **3. JAVASCRIPT**: <br/>
 Dados & Operadores, Estrutura de Controle, Funções, Objetos & Arrays, Assincronismo (Promise & Async/Await).
 
-**3. Typescript**: <br/>
+**4. TYPESCRIPT**: <br/>
 Tipos, Interface, Classes, POO (Programação Orientada a Objetos), Módulos.
+
+**5. REACT**: <br/>
+Componente, JSX, Propriedades (Props), Estado, Hooks.
 
 ## Links para os vídeos da série no YouTube:
 
@@ -36,3 +39,4 @@ Tipos, Interface, Classes, POO (Programação Orientada a Objetos), Módulos.
 [<img src="../esquenta-essencial-cod3r/assets/essencial-css.png" width="80px"/>](https://www.youtube.com/watch?v=QxWxhjH98R0)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-javascript.png" width="80px"/>](https://www.youtube.com/watch?v=oYhNLfh7oto)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-typescript.png" width="80px"/>](https://www.youtube.com/watch?v=X2MV17E9nxE)
+[<img src="../esquenta-essencial-cod3r/assets/essencial-react.png" width="80px"/>](https://www.youtube.com/watch?v=tYjYfWG8L3o)
