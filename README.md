@@ -33,6 +33,9 @@ Tipos, Interface, Classes, POO (Programação Orientada a Objetos), Módulos.
 **5. REACT**: <br/>
 Componente, JSX, Propriedades (Props), Estado, Hooks.
 
+**6. NEXT JS**: <br/>
+Rotas, Layouts & Templates, Componentes Cliente vs Servidor, Server Actions, Middleware.
+
 ## Links para os vídeos da série no YouTube:
 
 [<img src="../esquenta-essencial-cod3r/assets/essencial-html.png" width="80px"/>](https://www.youtube.com/watch?v=BRd8_yFzQiA)
@@ -40,3 +43,4 @@ Componente, JSX, Propriedades (Props), Estado, Hooks.
 [<img src="../esquenta-essencial-cod3r/assets/essencial-javascript.png" width="80px"/>](https://www.youtube.com/watch?v=oYhNLfh7oto)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-typescript.png" width="80px"/>](https://www.youtube.com/watch?v=X2MV17E9nxE)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-react.png" width="80px"/>](https://www.youtube.com/watch?v=tYjYfWG8L3o)
+[<img src="../esquenta-essencial-cod3r/assets/essencial-next.png" width="80px"/>](https://www.youtube.com/watch?v=BSrmGMC1-is)
