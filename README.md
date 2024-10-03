@@ -39,6 +39,9 @@ Rotas, Layouts & Templates, Componentes Cliente vs Servidor, Server Actions, Mid
 **7. TAILWIND**: <br/>
 Filosofia do Tailwind, Classes Utilitárias, Box Model, Display, Responsividade.
 
+**8. REACT NATIVE**: <br/>
+Componentes Básicos, Estilização dos Componentes, Navegação via Drawer, Navegação via Stack, Navegação via Tabs.
+
 ## Links para os vídeos da série no YouTube:
 
 [<img src="../esquenta-essencial-cod3r/assets/essencial-html.png" width="80px"/>](https://www.youtube.com/watch?v=BRd8_yFzQiA)
@@ -48,3 +51,4 @@ Filosofia do Tailwind, Classes Utilitárias, Box Model, Display, Responsividade.
 [<img src="../esquenta-essencial-cod3r/assets/essencial-react.png" width="80px"/>](https://www.youtube.com/watch?v=tYjYfWG8L3o)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-next.png" width="80px"/>](https://www.youtube.com/watch?v=BSrmGMC1-is)
 [<img src="../esquenta-essencial-cod3r/assets/essencial-tailwind.png" width="80px"/>](https://www.youtube.com/watch?v=tMgOTc2xRx0)
+[<img src="../esquenta-essencial-cod3r/assets/essencial-react-native.png" width="80px"/>](https://www.youtube.com/watch?v=CYdP3HrQiLM)
