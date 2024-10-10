@@ -1,0 +1,30 @@
+GET http://localhost:4000/produtos/ping
+
+###
+GET http://localhost:4000/produtos/
+
+
+###
+GET http://localhost:4000/produtos/3
+
+###
+POST http://localhost:4000/produtos
+Content-Type: application/json
+
+{
+    "nome": "Notebook",
+    "preco": 4000.00,
+    "descricao": "Notebook..."
+}
+
+###
+PATCH  http://localhost:4000/produtos
+Content-Type: application/json
+
+{
+    "id": 2,
+    "descricao": ""
+}
+
+###
+DELETE http://localhost:4000/produtos/3

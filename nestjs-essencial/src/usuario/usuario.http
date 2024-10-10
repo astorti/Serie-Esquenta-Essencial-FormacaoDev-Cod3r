@@ -1,0 +1,10 @@
+POST http://localhost:4000/usuarios
+Content-Type: application/json
+
+{
+    "nome": "nome",
+    "email": "email"
+}
+
+###
+GET http://localhost:4000/usuarios

@@ -42,13 +42,35 @@ Filosofia do Tailwind, Classes Utilitárias, Box Model, Display, Responsividade.
 **8. REACT NATIVE**: <br/>
 Componentes Básicos, Estilização dos Componentes, Navegação via Drawer, Navegação via Stack, Navegação via Tabs.
 
+**9. NEST JS**: <br/>
+Módulo, Controller, Injeção de Dependência, Injectables (Service e Providers), Middleware.
+
 ## Links para os vídeos da série no YouTube:
 
-[<img src="../esquenta-essencial-cod3r/assets/essencial-html.png" width="80px"/>](https://www.youtube.com/watch?v=BRd8_yFzQiA)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-css.png" width="80px"/>](https://www.youtube.com/watch?v=QxWxhjH98R0)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-javascript.png" width="80px"/>](https://www.youtube.com/watch?v=oYhNLfh7oto)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-typescript.png" width="80px"/>](https://www.youtube.com/watch?v=X2MV17E9nxE)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-react.png" width="80px"/>](https://www.youtube.com/watch?v=tYjYfWG8L3o)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-next.png" width="80px"/>](https://www.youtube.com/watch?v=BSrmGMC1-is)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-tailwind.png" width="80px"/>](https://www.youtube.com/watch?v=tMgOTc2xRx0)
-[<img src="../esquenta-essencial-cod3r/assets/essencial-react-native.png" width="80px"/>](https://www.youtube.com/watch?v=CYdP3HrQiLM)
+<img src="../esquenta-essencial-cod3r/assets/essencial-html.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-css.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-javascript.png" width="80px" style="border-radius: 5px"/>
+
+[<p style="display=flex; margin-top:-20px; margin-left: 23px">HTML</p>](https://www.youtube.com/watch?v=BRd8_yFzQiA)
+[<p style="display=flex; margin-top:-39px; margin-left: 110px">CSS</p>](https://www.youtube.com/watch?v=QxWxhjH98R0)
+[<p style="display=flex; margin-top:-39px; margin-left: 170px">JAVASCRIPT</p>](https://www.youtube.com/watch?v=oYhNLfh7oto)
+
+<img src="../esquenta-essencial-cod3r/assets/essencial-typescript.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-react.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-next.png" width="80px" style="border-radius: 5px"/>
+
+[<p style="display=flex; margin-top:-20px; margin-left:4px">TYPESCRIPT</p>](https://www.youtube.com/watch?v=X2MV17E9nxE)
+[<p style="display=flex; margin-top:-39px; margin-left: 105px">REACT</p>](https://www.youtube.com/watch?v=tYjYfWG8L3o)
+[<p style="display=flex; margin-top:-39px; margin-left: 180px">NEXT JS</p>](https://www.youtube.com/watch?v=BSrmGMC1-is)
+
+<img src="../esquenta-essencial-cod3r/assets/essencial-tailwind.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-react-native.png" width="80px" style="border-radius: 5px"/>
+<img src="../esquenta-essencial-cod3r/assets/essencial-nestjs.png" width="80px" style="border-radius: 5px"/>
+
+[<p style="display=flex; margin-top:-20px; margin-left: 9px">TAILWIND</p>](https://www.youtube.com/watch?v=tMgOTc2xRx0)
+[<p style="display=flex; margin-top:-39px; margin-left: 80px">REACT NATIVE</p>](https://www.youtube.com/watch?v=CYdP3HrQiLM)
+[<p style="display=flex; margin-top:-39px; margin-left: 185px">NEST JS</p>](https://www.youtube.com/watch?v=-5JgJRohSzU)
+
+<img src="../esquenta-essencial-cod3r/assets/essencial-sql.png" width="80px" style="border-radius: 5px"/>
+
+[<p style="display=flex; margin-top:-20px; margin-left: 27px">SQL</p>](https://www.youtube.com/watch?v=NbBwRf9PCVM)

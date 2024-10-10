@@ -1,0 +1,9 @@
+POST http://localhost:4000/filmes
+Content-Type: application/json
+
+{
+    "titulo": "titulo"
+}
+
+###
+GET http://localhost:4000/filmes
